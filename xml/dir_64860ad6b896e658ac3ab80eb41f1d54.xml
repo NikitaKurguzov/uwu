@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.2" xml:lang="en-US">
+  <compounddef id="dir_64860ad6b896e658ac3ab80eb41f1d54" kind="dir">
+    <compoundname>LinkedListLab</compoundname>
+    <innerfile refid="_linked_list_lab_8cpp">LinkedListLab.cpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="LinkedListLab/"/>
+  </compounddef>
+</doxygen>

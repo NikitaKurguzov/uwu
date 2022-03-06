@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.2" xml:lang="en-US">
+  <compounddef id="dir_21d3850f9f3538f348e1a90fdd8b50aa" kind="dir">
+    <compoundname>Lab1</compoundname>
+    <innerfile refid="_function__for__git_8h">Function_for_git.h</innerfile>
+    <innerfile refid="_lab1_8cpp">Lab1.cpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Lab1/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="__function__for__git_8h_source" xml:lang="en-US">
+<title>Function_for_git.h</title>
+<indexterm><primary>Lab1/Function_for_git.h</primary></indexterm>
+<programlisting linenumbering="unnumbered">1 <emphasis role="preprocessor">#include&#32;&lt;iostream&gt;</emphasis>
+2 <emphasis role="preprocessor">#include&#32;&lt;math.h&gt;</emphasis>
+3 <emphasis role="keyword">using&#32;namespace&#32;</emphasis>std;
+</programlisting></section>
